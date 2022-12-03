@@ -1,0 +1,27 @@
+body{
+    background-color: hwb(2 10% 15%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0in;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-variant: initial;
+    text-shadow: hsl(0, 57%, 97%);
+}
+.imagen-1{ 
+    width: 400px;
+    border-radius: 50px;
+    border: 80px #fcfaf9;
+
+}
+#image-2{
+    width: 350px;
+    border-radius: 50px;
+    border: 20px #e6e2e0;
+}
+.imagen-3{
+    width: 350px;
+    border-radius: 20px;
+    border: 20px rgb(199, 188, 181);
+}
+
